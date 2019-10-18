@@ -1,5 +1,3 @@
-My First React/Redux Application
-
 I've worked through the Redux Basic Tutorial (https://redux.js.org/basics/basic-tutorial).
 
 The following shows what I did step by step.
