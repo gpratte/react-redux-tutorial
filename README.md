@@ -138,3 +138,16 @@ Copied (cut and paste) into the VisibleTodoList.js file.
 Pushed the branch and then merge the branch to master.
 
 
+## step 07 implementing other components
+Created a **step-07-implementing-other-components** branch from master
+
+Continued working through the https://redux.js.org/basics/usage-with-react page of the basic tutorial.
+
+This branch represents the Implementing Other Components section.
+
+Copied (cut and paste) into the AddTodo.js file.
+
+Copied (cut and paste) into the components/App.js file.
+
+Yes there is an App.js in the src directory and another in src/components directory.
+index.js still uses the first one.
