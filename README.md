@@ -56,7 +56,6 @@ Create the first branch
 * _git checkout -b step-01-create-development-environment_
 * _git push origin step-01-create-development-environment_
 
-
 ## step 02 actions
 Created a **step-02-actions** branch from master
 
@@ -64,3 +63,9 @@ Read through the https://redux.js.org/basics/actions page of the basic tutorial.
 
 Added (copied and paste) the actions.js file, pushed the branch and then merge the branch to master.
 
+## step 03 reducers
+Created a **step-03-reducers** branch from master
+
+Read through the https://redux.js.org/basics/reducers page of the basic tutorial.
+
+Added (copied and paste) the reducers.js file, pushed the branch and then merge the branch to master.
