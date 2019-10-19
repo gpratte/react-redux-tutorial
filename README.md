@@ -151,3 +151,25 @@ Copied (cut and paste) into the components/App.js file.
 
 Yes there is an App.js in the src directory and another in src/components directory.
 index.js still uses the first one.
+
+## step 08 passing the store
+Created a **step-08-passing-the-store** branch from master
+
+Continued working through the https://redux.js.org/basics/usage-with-react page of the basic tutorial.
+
+This branch represents the Passing the Store section.
+
+Copied (cut and paste) to replace the code in 
+the index.js file.
+
+Deleted the src/App.js file.
+
+**Note** that the app compiled with warning but still displayed in the browser.
+
+```
+./src/components/Link.js
+  Line 10:5:  The href attribute requires ...
+
+./src/containers/VisibleTodoList.js
+  Line 6:3:  Expected a default case  default-case
+```
