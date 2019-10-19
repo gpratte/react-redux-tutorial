@@ -121,3 +121,20 @@ import FilterLink from '../containers/FilterLink'
 ```
 
 Pushed the branch and then merge the branch to master.
+
+## step 06 container components
+Created a **step-06-container-components** branch from master
+
+Continued working through the https://redux.js.org/basics/usage-with-react page of the basic tutorial.
+
+This branch represents the Implementing Container Components section.
+
+Create a **containers** directory.
+
+Copied (cut and paste) into the FilterLink.js file.
+
+Copied (cut and paste) into the VisibleTodoList.js file.
+
+Pushed the branch and then merge the branch to master.
+
+
