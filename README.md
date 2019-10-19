@@ -56,3 +56,18 @@ Create the first branch
 * _git checkout -b step-01-create-development-environment_
 * _git push origin step-01-create-development-environment_
 
+
+## step 02 actions
+Created a branch from master
+* _git checkout -b step-02-actions_
+
+Read through the https://redux.js.org/basics/actions page of the basic tutorial.
+
+Added (copied and paste) the actions.js file, pushed the branch and then merge the branch to master.
+
+* _git add ._
+* _git commit -m "added the actions.js file"_
+* _git push origin step-02-actions_
+* _git checkout master_
+* _git merge step-02-actions_
+* _git push origin master_
