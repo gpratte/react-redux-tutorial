@@ -94,3 +94,30 @@ and the app ran with no problems.
 Pushed the branch and then merge the branch to master.
 
 
+## step 05 presentational components
+Created a **step-05-presentational-components** branch from master
+
+Started working through the https://redux.js.org/basics/usage-with-react page of the basic tutorial.
+
+This branch represents the Implementing Presentational Components section.
+
+Create a **components** directory.
+
+Copied (cut and paste) into the Todo.js file.
+
+Copied (cut and paste) into the TodoList.js file.
+
+Copied (cut and paste) into the Link.js file.
+
+Copied (cut and paste) into the Footer.js file.
+
+Ran the app and it did not report any problems.
+* _npm start_
+
+I am surprised because Footer imports FilterLink which does not exist.
+
+```
+import FilterLink from '../containers/FilterLink'
+```
+
+Pushed the branch and then merge the branch to master.
