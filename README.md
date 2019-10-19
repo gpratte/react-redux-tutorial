@@ -69,3 +69,28 @@ Created a **step-03-reducers** branch from master
 Read through the https://redux.js.org/basics/reducers page of the basic tutorial.
 
 Added (copied and paste) the reducers.js file, pushed the branch and then merge the branch to master.
+
+
+## step 04 store
+Created a **step-04-store** branch from master
+
+Read through the https://redux.js.org/basics/store page of the basic tutorial.
+
+Updated (copied and paste) the index.js file with
+```
+import { createStore } from 'redux'
+import todoApp from './reducers'
+const store = createStore(todoApp)
+```
+
+Tried to run the app
+* _npm start_
+
+and it complained it did not know what redux is so install redux
+* _npm install --save redux_
+
+and the app ran with no problems.
+
+Pushed the branch and then merge the branch to master.
+
+
