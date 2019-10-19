@@ -42,6 +42,11 @@ Removed all the default files and edited the remaining files to just show an htm
 * index.css
 * App.js
 
+Push the changes
+* _git add ._
+* _git commit -m "the app just shows an h1 header"_
+* _git push origin master_
+
 Edit the README.md with these notes and push changes to master.
 * _git add ._
 * _git commit -m "update readme"_
