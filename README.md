@@ -37,6 +37,10 @@ Push changes
 * _git commit -m "added react-redux npm package"_
 * _git push origin master_
 
+Removed all the default files and edited the remaining files to just show an html page with an h1 header. The files are now
+* index.js
+* index.css
+* App.js
 
 Edit the README.md with these notes and push changes to master.
 * _git add ._
